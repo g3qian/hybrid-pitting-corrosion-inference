@@ -22,7 +22,4 @@ This repo organizes the analysis into **five** clean steps:
      - `data/cumulative_pits.csv`  
      - `data/depth_pdfs.csv`
 
-## Run
 
-```bash
-python -m src.main
